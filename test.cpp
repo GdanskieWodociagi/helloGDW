@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-	cout <<dsfsdfsdfd "Wita asaSASAS" << endl;
+	cout <<dsfsdfsdfd "Wtrytyrita asaSASAS" << endl;
 }
